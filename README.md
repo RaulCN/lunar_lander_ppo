@@ -19,8 +19,8 @@ Copy
 ## Treinando o Agente
 
 Para treinar o agente, execute:
-python treinamento_exigente.py
-Copy
+python treinamento.py
+
 Este script faz o seguinte:
 
 - Cria ou carrega um modelo PPO
