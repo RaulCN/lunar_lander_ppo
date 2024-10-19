@@ -4,7 +4,7 @@ Este projeto implementa e treina um agente de Aprendizado por Reforço para reso
 
 ## Arquivos
 
-1. `treinamento_exigente_ainda_mais.py`: Script de treinamento
+1. `treinamento.py`: Script de treinamento
 2. `agente.py`: Script de avaliação
 
 ## Requisitos
