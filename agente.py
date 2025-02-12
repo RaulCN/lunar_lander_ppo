@@ -5,7 +5,7 @@ from stable_baselines3 import PPO
 model = PPO.load("ppo_lunar_lander_recordista")
 
 # Criar o ambiente com render_mode="human"
-env = gym.make("LunarLander-v2", render_mode="human")
+env = gym.make("LunarLander-v3", render_mode="human")
 
 # Definir o número de episódios para renderizar (alterar conforme necessário)
 N_RENDER = 100  # Renderizar a cada 100 episódios
