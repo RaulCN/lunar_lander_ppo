@@ -59,3 +59,7 @@ O modelo treinado inclui as seguintes metainformações:
 ## Personalização
 
 Você pode ajustar vários parâmetros em ambos os scripts para experimentar diferentes configurações de treinamento e configurações de avaliação.
+
+## Atualizações Recentes
+- Migração do ambiente `LunarLander-v2` para `LunarLander-v3` devido à descontinuação da versão anterior.
+- Ajustes no código para compatibilidade com a nova versão do ambiente.
