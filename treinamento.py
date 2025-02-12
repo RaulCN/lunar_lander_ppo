@@ -67,7 +67,7 @@ def get_or_create_model(env, model_path, **kwargs):
     return model
 
 # Criar o ambiente
-env = gym.make("LunarLander-v2")
+env = gym.make("LunarLander-v3")
 
 # Caminho para salvar ou carregar o modelo
 model_path = "ppo_lunar_lander_recordista.zip"
